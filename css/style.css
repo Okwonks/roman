@@ -10,9 +10,19 @@ p {
   margin-top: 12%;
   padding-top: 3%;
   padding-bottom: 5%;
-  background-color: #e7e7e7
+  background-color: #e7e7e7;
+}
+
+#hidden {
+  padding: 0.5em;
 }
 
 #answer {
   display: none;
+  margin-top: 2%;
+  margin-bottom: none;
+  margin-left: 12%;
+  margin-right: 12%;
+  background-color: #008ae6;
+  border-radius: 20px;
 }
