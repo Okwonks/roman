@@ -11,6 +11,8 @@ p {
   padding-top: 3%;
   padding-bottom: 5%;
   background-color: #e7e7e7;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #999999;
 }
 
 #hidden {
@@ -25,4 +27,5 @@ p {
   margin-right: 12%;
   background-color: #008ae6;
   border-radius: 20px;
+  box-shadow: 2px 2px 2px #999999;
 }

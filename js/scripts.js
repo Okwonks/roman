@@ -25,6 +25,6 @@ $(document).ready(function(){
 
           $(".roman").text(romanised);
 
-         $("#answer").fadeIn(2000).fadeOut(4000);
+         $("#answer").fadeIn(2000).fadeOut(6000);
         });
       });
